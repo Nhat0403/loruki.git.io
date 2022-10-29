@@ -105,16 +105,16 @@
     flex-direction: column;
   }
 
-  #stats > *:first-child {
+  #stats .container {
     display: flex;
     flex-direction: column;
-    gap: 3rem;
     padding: 0;
   }
 
   .stats-content {
     display: flex;
     flex-direction: column;
+    gap: 3rem;
   }
 
   #cli .container {
