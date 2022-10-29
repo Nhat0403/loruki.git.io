@@ -97,7 +97,6 @@
 
   /* bd mobile index.html */
   #showcase .grid {
-    grid-template-columns: 400px !important;
     padding: 0;
   }
 
