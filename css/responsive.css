@@ -13,7 +13,7 @@
   }
   /* bd tablet index.html */
   #showcase .grid {
-    grid-template-columns: 500px;
+    grid-template-columns: 1fr;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -98,6 +98,10 @@
   /* bd mobile index.html */
   #showcase .grid {
     padding: 0;
+  }
+
+  #showcase .container {
+    padding: 0 1rem;
   }
 
   #stats .container {
