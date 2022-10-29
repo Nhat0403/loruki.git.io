@@ -76,6 +76,10 @@ body {
   gap: 5rem;
 }
 
+.showcase-info {
+  margin-bottom: 3rem;
+}
+
 .showcase-title,
 .showcase-text {
   margin-bottom: 1rem;
@@ -196,8 +200,7 @@ body {
 }
 
 .stats-title {
-  margin: 1rem auto;
-  margin-bottom: 3rem;
+  margin: 2rem auto;
   width: 40rem;
 }
 
@@ -205,10 +208,10 @@ body {
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
   overflow: visible;
+  padding-top: 2rem;
 }
 
 .stats-item i {
-  scale: 1.25;
   margin-bottom: 0.75rem;
 }
 
