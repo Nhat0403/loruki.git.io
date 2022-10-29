@@ -108,12 +108,11 @@
   #stats .container {
     display: flex;
     flex-direction: column;
-    padding: 0;
     max-width: 500px;
   }
 
   .stats-title {
-    margin: 0 auto;
+    width: fit-content;
   }
 
   .stats-content {
