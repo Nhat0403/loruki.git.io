@@ -158,10 +158,6 @@
     grid-template-columns: 1fr;
   }
 
-  .docs-essentials {
-    width: 350px;
-  }
-
   #docs-main .text {
     font-size: 1.5rem;
   }
