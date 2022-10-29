@@ -100,8 +100,9 @@
     padding: 0;
   }
 
-  #showcase .container {
-    padding: 0 1rem;
+  .showcase-info {
+    display: flex;
+    flex-direction: column;
   }
 
   #stats .container {
@@ -110,8 +111,9 @@
     gap: 3rem;
   }
 
-  #cli {
+  #cli .container {
     grid-template-columns: 1fr;
+    padding: 2rem;
   }
 
   #cli img {
